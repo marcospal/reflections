@@ -1,0 +1,13 @@
+Bash commands:
+mv file_name1 file_name2 [moves a file]
+
+cd ~ [goes back to home directory]
+cd .. [one level up]
+cd directoryName 
+
+configurations:
+git config --global core.editor "'C:/Program Files/Sublime Text2/sublime_text.exe' -n -w"
+git config --global push.default upstream
+git config --global merge.conflictstyle diff3
+
+git --version
