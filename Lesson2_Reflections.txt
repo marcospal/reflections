@@ -1,3 +1,6 @@
 -How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It offers the value to chose which files are going to be committed.
+
+-How can you use the staging area to make sure you have one commit per logical change?
+Include in the staging area all the files that are involved in the change
