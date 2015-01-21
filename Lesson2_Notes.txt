@@ -1,0 +1,3 @@
+git diff [compares the working directory with the staging]
+git diff --staged [compares the staging with the commits]
+git diff commit1 commit2 [compares 2 different commits]
