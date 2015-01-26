@@ -4,3 +4,20 @@ It offers the value to chose which files are going to be committed.
 
 -How can you use the staging area to make sure you have one commit per logical change?
 Include in the staging area all the files that are involved in the change
+
+Reflect: When to Use Branches
+-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If I want to experiment, or want to make another language version.
+
+Reflect: Visualizing with Diagrams
+How do the diagrams help you visualize the branch structure?
+They give me the necessary overview for the changes made in the different branches
+
+Reflect: Merging Two Branches
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Changes made in both branches are merged into one single branch. We use the diagram for overview
+
+Reflect: Automatic vs. Manual Merging
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+If there are no conflicts, the automatic merging will suffice. Manual merging is only necessary when conflicts are present.
+
