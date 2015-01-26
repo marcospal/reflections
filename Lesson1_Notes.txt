@@ -11,3 +11,5 @@ git config --global push.default upstream
 git config --global merge.conflictstyle diff3
 
 git --version
+
+git clone [repository name]
